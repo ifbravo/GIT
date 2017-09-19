@@ -18,3 +18,5 @@ ahora si esta listo, esero que sea asi como funciona, por que me estoy inventado
 inventando dos
 
 probando con guardar archivo.
+
+ahora va prueba competa, sin guardar como pero haciendo el add y ego el commit
