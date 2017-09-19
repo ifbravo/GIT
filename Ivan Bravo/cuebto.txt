@@ -1,1 +1,14 @@
 cuento
+
+
+habia una vez un man q no entendia nada de git pero ya va dando.
+
+no entiendo el commit por q no me coge todos los comandos.
+
+por fin entendi los comandos, estaba mal escrito confing. el error fue mio.
+
+sigo pataleando pero espero que ya logre entender el funcionamiento de git.
+
+nada aun.
+
+espero que ya este listo esta vaina.
