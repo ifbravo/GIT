@@ -20,3 +20,9 @@ inventando dos
 probando con guardar archivo.
 
 ahora va prueba competa, sin guardar como pero haciendo el add y ego el commit
+
+la cosa es asi:
+1.- hacer cambios en el archivo
+2.- guardar archivo
+3.- git add
+4.- git commit
